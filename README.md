@@ -1,0 +1,1 @@
+I am building a career that fuses cybersecurity, Python, data analysis, and AI automation into one skill stack — using Python to build tools, data analysis to find threats, and automation to respond at machine speed. The goal is not to master four separate fields, but to operate at the center where they all connect.
