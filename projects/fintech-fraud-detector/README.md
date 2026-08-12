@@ -37,18 +37,6 @@ pip install pandas
 python v1_transaction_analyzer.py
 
 
----
-
-**How to add it:**
-
-1. Go to your GitHub repo → `projects/fintech-fraud-detector/`
-2. Click on `README.md`
-3. Click the **pencil icon** (Edit)
-4. **Delete** the old placeholder text
-5. **Paste** the content above
-6. Click **"Commit changes"**
-
-This turns your folder from "a script dump" into "a professional project" that recruiters and clients can understand in 10 seconds.
 
 Author
 Built by stingotech as part of the SPAA Academy journey.
