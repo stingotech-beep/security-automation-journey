@@ -1,3 +1,4 @@
+
 # Fintech Fraud Detector
 
 A real-time transaction anomaly detection pipeline built with the SPAA framework:
@@ -11,6 +12,7 @@ This project analyzes financial transaction data to detect fraudulent activity u
 - **Size:** 284,807 transactions
 - **Features:** 30 numerical features (PCA-transformed), Time, Amount, Class
 - **Fraud Cases:** 492 (0.1727% — highly imbalanced, real-world realistic)
+- "Dataset: Download creditcard.csv from Kaggle Credit Card Fraud Detection and place in this folder."
 
 ## SPAA Pillars Demonstrated
 
